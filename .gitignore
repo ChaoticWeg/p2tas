@@ -1,4 +1,8 @@
 # replace with your own - literally just `exec tas/<whatever>`
 # this changes far too frequently to be useful
-
 current_tas.cfg
+
+# solo coop is a huge work-in-progress, to the point where i
+# don't even want to commit any of it right now. still working
+# on making it readable and consistent using sar_tas_ss <x>.
+solo_coop/
