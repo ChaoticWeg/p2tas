@@ -1,2 +1,3 @@
-# p2tas
-Portal 2 TASes. Built, tested, and executed using SourceAutoRecord.
+# Portal 2 TAS
+
+Built, tested, and executed using SourceAutoRecord.
