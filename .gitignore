@@ -6,3 +6,7 @@ current_tas.cfg
 # don't even want to commit any of it right now. still working
 # on making it readable and consistent using sar_tas_ss <x>.
 solo_coop/
+
+# krzy made a 180-strafe demo and it's neat
+# but i'm not gonna share it without his permission
+misc/krzy_*.cfg
